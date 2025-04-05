@@ -13,7 +13,7 @@ Este projeto tem como objetivo explorar o poder das IAs Generativas na criação
 2. Descrevi em detalhes as características que gostaria na imagem.
 
 3. Utilizei a IA DALL·E para gerar a imagem automaticamente.
-4. 
+
 ## 🚀 Resultados
 Imagem gerada pela IA:
 
