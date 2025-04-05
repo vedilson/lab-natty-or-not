@@ -19,7 +19,7 @@ Este projeto tem como objetivo explorar o poder das IAs Generativas na criação
 ## 🚀 Resultados
 Imagem gerada pela IA:
 
-![Meu Pais Sorocaba](./assets/SorocabaSP.webp)
+![Meu Pais Sorocaba](./exemplos/assets/SorocabaSP.webp)
 
 ## 💭 Reflexão
 Foi interessante perceber como uma simples descrição bem feita pode gerar imagens com qualidade profissional usando IA. Este recurso pode ser muito útil em projetos criativos, design e identidade visual.
